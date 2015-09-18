@@ -1,0 +1,7 @@
+name 'docker_host'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures docker_host'
+long_description 'Installs/Configures docker_host'
+version '0.1.0'
