@@ -1,7 +1,7 @@
 name 'docker_host'
 maintainer 'Ryan Ovrevik'
 maintainer_email 'rlo+github@ovrevik.com'
-license 'MIT'
+license 'mit'
 description 'Installs/Configures docker_host'
 long_description 'Installs/Configures docker_host'
 version '0.1.0'

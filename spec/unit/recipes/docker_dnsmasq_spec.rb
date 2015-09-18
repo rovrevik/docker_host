@@ -27,7 +27,7 @@
 
 require 'spec_helper'
 
-describe 'docker_host::default' do
+describe 'docker_host::docker_dnsmasq' do
   context 'When all attributes are default, on an unspecified platform' do
     let(:chef_run) do
       runner = ChefSpec::ServerRunner.new
